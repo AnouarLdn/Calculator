@@ -1,24 +1,3 @@
-// Unit Testing Operators with Jasmine
-
-function add(a, b) {
-    return a + b;
-}
-
-function subtract(a, b) {
-    return a - b;
-}
-
-function multiply(a, b) {
-    return a * b;
-}
-
-function divide(a, b) {
-    return a / b;
-}
-
-// Integration Testing with Jasmine
-
-
 // Numbers
 $(document).ready(() =>{
     $("#1").click(function() {
@@ -81,21 +60,3 @@ $(document).ready(() =>{
     });
 });
 
-
-
-
-
-
-
-
-
-
-// window.onload = function() {
-//     if (window.jQuery) {
-//         // jQuery is loaded
-//         alert("Yeah!");
-//     } else {
-//         // jQuery is not loaded
-//         alert("Doesn't Work");
-//     }
-// }

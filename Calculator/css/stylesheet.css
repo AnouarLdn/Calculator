@@ -1,5 +1,10 @@
+html {
+background-image:linear-gradient(purple, pink);
+}
+
 body {
-  background-color: #;
+ height: 100vh;
+  background-image:url(./images/matt-le-SJSpo9hQf7s-unsplash.jpg);
 }
 
 table {
@@ -52,4 +57,8 @@ input {
 
 input#equal {
     width: 100%;
+}
+
+form {
+    padding-top: 20vh;
 }
